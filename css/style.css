@@ -1,0 +1,30 @@
+.heading{
+padding-top: 2em;
+padding-bottom: 2em;
+}
+.list_items{
+padding-top: 1em;
+padding-left: 8em;
+padding-right: 8em;
+}
+
+.task_element{
+padding-bottom: 1em;
+display: block;
+width: 100%;
+}
+
+.task_content{
+position: relative;
+display: inline-block;
+}
+
+.task_actions{
+display: inline-block;
+padding-left: 1em;
+padding-right: 1em;
+}
+
+.btn{
+margin-left: 1em;
+}
